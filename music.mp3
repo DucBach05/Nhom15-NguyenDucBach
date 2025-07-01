@@ -1,0 +1,2 @@
+with open("music.mp3", "wb") as f:
+    f.write(b"This is a fake MP3 file for testing.")
